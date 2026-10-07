@@ -5,3 +5,5 @@
 
 ## Задачи для GitHub:
 [Геометрическая вероятность](./Notebook_Github/Geometry_prob.ipynb)
+
+[Частотная и классическая вероятность](./Notebook_Github/Frequent_and_classic_prob.ipynb)
